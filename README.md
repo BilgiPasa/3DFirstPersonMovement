@@ -1,11 +1,11 @@
 # 3DFirstPersonMovement
 
-This is a Unity project that I made.
+Scriptlerin üst satırlarında yazmış olduğum yorumları oku. O yorumlar, Unity editöründe bazı şeyleri yapmanı isteyecek.
 
-In the Scripts folder, open and read the top comments of the scripts. The comments tell you to do some things on your Unity project to use these scripts.
+Projemi yaparken ChatGPT, Deepseek, Claude gibi yapay zekaları KULLANMADIM ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
 
-The "3D First Person Movement" project is in the 2022.3.62f1 version of the Unity game engine.
+Kodların ve yorum satırlarının hepsini kendim yazdım ama tabiki internette bulduğum tutorial'lardan yardım aldığım oldu.
 
-Projemi yaparken ChatGPT, Deepseek, Claude gibi yapay zekaları KULLANMADIM. Ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
+"3D First Person Movement" projem, Unity'nin 2022.3.62f1 versiyonuna ait haberin olsun (yani Unity package'ını kullanacaksan Unity 2022'de kullan).
 
 Haberin olsun bu proje üstünde çalışmayı bıraktım. Bu reponun Movement kodunu kullanmak istiyorsan bakabilirsin ama onun haricinde 3DFirstPersonMovement2 repoma bakmanı öneririm. Çünkü 3DFirstPersonMovement2 daha güncel ve daha düzgün koda sahip ayrıca daha fazla özelliğe sahip. (Eşya tutma mekaniği, FPS sayacı, FPS limiter vs.)
