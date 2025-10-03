@@ -9,7 +9,7 @@ public class PauseMenuManager : MonoBehaviour
     public static bool gamePaused, dynamicFOV, settingsMenuOpened;
     const KeyCode escapeKey = KeyCode.Escape;
     [SerializeField] GameObject pauseMenuObject, settingsMenuObject, speedTextObject;
-    [SerializeField] TextMeshProUGUI FOVText, mouseSensitivityText, speedText;
+    [SerializeField] TextMeshProUGUI FOVText, mouseSensitivityText, speedText, gameVersionText;
     [SerializeField] Toggle dynamicFOVToggle, speedTextToggle, increasedSensitivityToggle;
     [SerializeField] Slider FOVSlider, mouseSensitivitySlider;
     [SerializeField] PlayerSpawnAndSaveManager playerSpawnAndSaveManagerScript;
@@ -43,6 +43,7 @@ public class PauseMenuManager : MonoBehaviour
 
         PlayerCameraManager.normalFOV = PlayerPrefs.GetInt("FOV");
         PlayerCameraManager.sensitivity = PlayerPrefs.GetInt("mouseSensitivity");
+        gameVersionText.text = $"v{Application.version}";
     }
 
     void Update()
