@@ -1,10 +1,12 @@
 # 3DFirstPersonMovement
 
-Scriptlerin üst satırlarında yazmış olduğum yorumları oku. O yorumlar, Unity editöründe bazı şeyleri yapmanı isteyecek.
-
 Projemi yaparken hiçbir Generitive AI prompt'u KULLANMADIM ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
 
 Projemdeki kodların ve yorum satırlarının hepsini kendim yazdım ama tabii ki de internette bulduğum tutorial'lardan yardım aldığım oldu.
+
+Scriptlerin üst satırlarında yazmış olduğum yorumları okuyunuz. O yorumlar, Unity editörünüzde bazı şeyleri yapmanızı isteyecek.
+
+Scriptlerin içindeki kod yorumlarının bazıları Türkçe, bazıları İngilizce haberiniz olsun.
 
 Projemde, Ciathyza'nın "Gridbox Prototype Materials" ücretsiz assetini kullandım Unity Asset Store'dan.
 
