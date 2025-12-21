@@ -2,9 +2,9 @@
 
 Scriptlerin üst satırlarında yazmış olduğum yorumları oku. O yorumlar, Unity editöründe bazı şeyleri yapmanı isteyecek.
 
-Projemi yaparken ChatGPT, Deepseek, Claude gibi yapay zekaları KULLANMADIM ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
+Projemi yaparken hiçbir Generitive AI prompt'u KULLANMADIM ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
 
-Kodların ve yorum satırlarının hepsini kendim yazdım ama tabiki internette bulduğum tutorial'lardan yardım aldığım oldu.
+Projemdeki kodların ve yorum satırlarının hepsini kendim yazdım ama tabii ki de internette bulduğum tutorial'lardan yardım aldığım oldu.
 
 Projemde, Ciathyza'nın "Gridbox Prototype Materials" ücretsiz assetini kullandım Unity Asset Store'dan.
 
