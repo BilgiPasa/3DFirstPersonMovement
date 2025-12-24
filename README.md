@@ -12,4 +12,4 @@ Projemde, Ciathyza'nın "Gridbox Prototype Materials" ücretsiz assetini kulland
 
 Projemin .unitypackage dosyası, Unity'nin 2022.3.62f2 versiyonunda Built-In Render Pipeline ile kullanılabilir.
 
-Haberiniz olsun bu proje üstünde çalışmayı bıraktım. Bu reponun movement kodunu kullanmak istiyorsanız bakabilirsiniz ama onun haricinde 3DFirstPersonMovement2 repoma bakmanızı öneririm. Çünkü 3DFirstPersonMovement2 daha güncel ve daha düzgün koda sahip. Ayrıca daha fazla özelliğe sahip (eşya tutma mekaniği, FPS sayacı, FPS limiter vs.).
+Haberiniz olsun, bu proje üstünde çalışmayı bıraktım. Bu reponun movement kodunu kullanmak istiyorsanız bakabilirsiniz ama onun haricinde 3DFirstPersonMovement2 repoma bakmanızı öneririm. Çünkü 3DFirstPersonMovement2 daha güncel ve daha düzgün koda sahip. Ayrıca daha fazla özelliğe sahip (eşya tutma mekaniği, FPS sayacı, FPS limiter vs.).
