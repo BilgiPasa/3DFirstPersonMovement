@@ -1,6 +1,6 @@
 # 3DFirstPersonMovement
 
-Projemi yapmak için hiçbir Generitive AI prompt'u KULLANMADIM ki zaten Generitive AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
+Projemi yapmak için hiçbir Generative AI prompt'u KULLANMADIM ki zaten Generative AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
 
 Projemdeki kodların ve yorum satırlarının hepsini kendim yazdım ama tabii ki de internette bulduğum tutorial'lardan yardım aldığım oldu.
 
