@@ -1,10 +1,8 @@
 # 3DFirstPersonMovement
 
-Projemi yapmak için hiçbir Generative AI prompt'u KULLANMADIM ki zaten Generative AI kullanmayı sevmiyorum ve tavsiye etmiyorum da.
-
-Projemdeki kodların ve yorum satırlarının hepsini kendim yazdım ama tabii ki de internette bulduğum tutorial'lardan yardım aldığım oldu.
-
 Scriptlerin üst satırlarında yazmış olduğum yorumları okuyunuz. O yorumlar, Unity editörünüzde bazı şeyleri yapmanızı isteyecek.
+
+Bilginize, ben vibe coding yapmam. Kodu kendim yazarım. Ama tabii ki de internette bulduğum tutorial'lardan yardım aldığım oldu.
 
 Scriptlerin içindeki kod yorumlarının bazıları Türkçe, bazıları İngilizce haberiniz olsun.
 
