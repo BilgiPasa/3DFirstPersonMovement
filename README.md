@@ -1,6 +1,6 @@
 # 3DFirstPersonMovement
 
-Scriptlerin üst satırlarında yazmış olduğum yorumları okuyunuz. O yorumlar, Unity editörünüzde bazı şeyleri yapmanızı isteyebilir.
+Scriptlerin üst satırlarında yazmış olduğum yorumları okuyunuz. O yorumlar, Unity editörünüzde birkaç şey yapmanızı isteyebilir.
 
 Projemde, Unity Asset Store'da bulunan, Ciathyza'nın "Gridbox Prototype Materials" ücretsiz assetini kullandım.
 
